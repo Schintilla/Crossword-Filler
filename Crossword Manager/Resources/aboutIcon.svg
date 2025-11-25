@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 7.68 7.68"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="aboutIcon.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.00875"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 1.520586,5.1262642 C 1.0159992,4.621688 0.76370414,4.3693835 0.66982766,4.0420539 0.57594798,3.7147242 0.65617747,3.3670547 0.81663657,2.6717322 L 0.90917115,2.270755 C 1.0441647,1.6857797 1.1116648,1.3932887 1.3119513,1.1929993 1.5122411,0.99271313 1.8047326,0.92521316 2.3897089,0.79021984 L 2.7906867,0.69768559 C 3.4860105,0.53722682 3.8336805,0.45699744 4.1610107,0.55087695 4.488341,0.64475349 4.7406458,0.89704791 5.2452228,1.4016338 l 0.5973303,0.5973425 c 0.8779085,0.8779037 1.3168627,1.3168539 1.3168627,1.8623053 0,0.5454516 -0.4389542,0.9844051 -1.3168627,1.8623121 -0.8779084,0.8779069 -1.3168626,1.3168604 -1.8623151,1.3168604 -0.5454524,0 -0.9844034,-0.4389535 -1.8623086,-1.3168604 z"
+     stroke="#1c274c"
+     stroke-width="0.489722"
+     id="path1"
+     style="stroke-width:0.48972;stroke-dasharray:none;stroke:#04050a;stroke-opacity:1;fill:#fff6d5" />
+  <circle
+     cx="0.021393241"
+     cy="3.9199159"
+     r="0.65296221"
+     transform="matrix(0.70710738,-0.70710619,0.70710738,0.70710619,0,0)"
+     stroke="#1c274c"
+     stroke-width="0.489721"
+     id="circle1"
+     style="stroke:#090d19;stroke-opacity:1;fill:#f9f9f9" />
+  <path
+     d="M 3.7449756,5.897771 6.0235217,3.6191959"
+     stroke="#1c274c"
+     stroke-width="0.489722"
+     stroke-linecap="round"
+     id="path2"
+     style="stroke:#080b15;stroke-opacity:1" />
+</svg>

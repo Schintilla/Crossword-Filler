@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0003: Remove qualification
+dotnet_diagnostic.IDE0003.severity = silent
+
+# Default severity for analyzer diagnostics with category 'Interoperability'
+dotnet_analyzer_diagnostic.category-Interoperability.severity = none

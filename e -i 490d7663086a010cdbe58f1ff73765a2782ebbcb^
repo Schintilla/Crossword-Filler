@@ -1,0 +1,143 @@
+[33mcommit 73c4a27ec4acf0d838477bc650644959cc6e17a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mCellDataRecord-now-separate-Class[m[33m, [m[1;32mMultiple-Crossword-Sizes[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Tue Nov 4 21:37:20 2025 +0200
+
+    OCR & IP Complete
+
+[33mcommit ac7b093d7e3b8d160e12a19130f64eba3bdc2ae9[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Mon Nov 3 18:48:03 2025 +0200
+
+    Added Pre-processing
+
+[33mcommit 4ca206863b2342dce7cd2d7f601bdac08fc60947[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Fri Oct 24 15:21:26 2025 +0200
+
+    Shortcuts setup
+
+[33mcommit 490d7663086a010cdbe58f1ff73765a2782ebbcb[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sun Oct 19 17:52:07 2025 +0200
+
+    Clues Text In/Out coded
+
+[33mcommit ed665ed24bca276624622009497ed645061baeb0[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Wed Oct 15 22:07:57 2025 +0200
+
+    Solution & Hints Implemented
+
+[33mcommit e69d75f59879ff9b2ea256b67f494a8573852580[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Tue Oct 14 16:21:18 2025 +0200
+
+    Added hints and solution
+
+[33mcommit a73693b9609f7b17825c3363281ff09021a7729b[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Wed Oct 8 22:36:50 2025 +0200
+
+    Add Puz Import
+
+[33mcommit e64bfdfb184aa61bd283772654e5f7f1967e8820[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Tue Sep 30 17:13:15 2025 +0200
+
+    OCR Added
+
+[33mcommit 0b6cc02b86e6ec32afe6ed01f12b0be6fa71467e[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sun Sep 28 16:03:42 2025 +0200
+
+    Ready for settings
+
+[33mcommit ac15e5c6119165e5ffea6d45822e65a336645cbc[m[33m ([m[1;32mrecovered-work[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Wed Sep 24 18:28:14 2025 +0200
+
+    Recovered - Ready for Multiple Crosswords
+
+[33mcommit 721876b79fc2bb289ea8cbea3502b77fd15a66e7[m[33m ([m[1;31morigin/recovered-work[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Wed Sep 24 16:48:01 2025 +0200
+
+    Ready for multiple crossword grids
+
+[33mcommit 6361a97019a7197645430bd30616f084f99e23fa[m[33m ([m[1;32mScratchapad-added-to-JSON[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sun Sep 14 11:25:08 2025 +0200
+
+    Ready for I/O
+
+[33mcommit 76631a6b5c3f6761a63c486b00f44b633ddf58ca[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sat Sep 13 21:48:10 2025 +0200
+
+    Add Function completed
+
+[33mcommit cc7b4ca316a121ff9f170e4623427b3a53607b82[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Fri Sep 12 19:12:35 2025 +0200
+
+    ScratchPad added
+
+[33mcommit 67a1bc68409c962d8f45ae4b5ff3ba5022a40161[m[33m ([m[1;32mmaster[m[33m, [m[1;32mUse-a-single-JSON[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Fri Sep 12 16:48:05 2025 +0200
+
+    Baseline
+
+[33mcommit e041563f97e4a58b078284fb2f4168694cff2065[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sat Sep 6 22:26:26 2025 +0200
+
+    Changes
+
+[33mcommit 81d097167137b54e9fea9ba65ed4e15818b9ea7e[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Thu Sep 4 13:09:56 2025 +0200
+
+    up
+
+[33mcommit 5db0706d9a6a0c1d48bb38c180f8b0f3ee35e72d[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Tue Sep 2 16:04:37 2025 +0200
+
+    Major changes
+
+[33mcommit 3373b835a3cdaf4a4dc237f0bdcd8b01f5e66227[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Mon Sep 1 16:44:43 2025 +0200
+
+    Update#2
+
+[33mcommit 3dfeb8b1485d0306dbadd053bc7d88e436f76a77[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sat Aug 30 21:56:13 2025 +0200
+
+    Update
+
+[33mcommit c3f6ab4db46c8989be7430b7d032e01d2249ce55[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sat Aug 30 19:00:42 2025 +0200
+
+    Update
+
+[33mcommit daec92befce53ee0ece07995c7a8d635c1cbd246[m[33m ([m[1;32mUpdate-the-Painting-Methods[m[33m)[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Sat Aug 30 11:37:20 2025 +0200
+
+    update
+
+[33mcommit b04a9619dc7caaefc88223e9e0d0c34bda05ac03[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Fri Aug 29 21:30:57 2025 +0200
+
+    Add project files.
+
+[33mcommit fd3265917ad77b7ee4deac29725033e270b469e8[m
+Author: Barry S <cyberhome101@gmail.com>
+Date:   Fri Aug 29 21:30:55 2025 +0200
+
+    Add .gitattributes and .gitignore.
