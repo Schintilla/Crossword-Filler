@@ -1,6 +1,6 @@
 # Crossword Manager
 
-A Windows desktop application built with C# and WinForms that lets you digitize, solve, and organize crosswords—especially those only available as hardcopies, printouts, or static images.
+A Windows desktop application built with C#, WinForms, and .NET 8 that lets you digitize, solve, and organize crosswords—especially those only available as hardcopies, printouts, or static images.
 
 ![App Screenshot](path/to/screenshot.png)
 
@@ -8,7 +8,7 @@ A Windows desktop application built with C# and WinForms that lets you digitize,
 
 ### Digitize & Capture Crosswords
 * **Image & Clue Loading:** Import a crossword grid image along with its clues. Clues remain stored as `.png` images unless converted to text via OCR.
-* **Flexible OCR Input:** Extract clues directly from your screen, paste from the clipboard, or scan from a loaded image file.
+* **Dual OCR Engines:** Choose between local **Tesseract OCR** or built-in **Windows 11 OCR** to capture clues directly from your screen, paste from the clipboard, or scan from a loaded image file.
 * **On-the-Fly Image Pre-Processing:** Improve scan and OCR accuracy on low-quality images with built-in tools to scale, sharpen, threshold, and denoise before processing.
 
 ### Organize & Share
@@ -19,7 +19,7 @@ A Windows desktop application built with C# and WinForms that lets you digitize,
 * **Clues Explorer:** Break down stubborn or cryptic clues with tools for anagramming, clue dissecting, letter pattern matching, and process of elimination.
 * **Solver's Scratchpad:** A dedicated space for notes, wordplay ruminations, and working through clues out loud.
 * **Personal Hints Database:** Build and maintain your own reference database of common cryptic indicators, techniques, and reminders.
-* **Online Dictionary & AI Lookup:** Search words and phrases via integrated online dictionaries or use built-in AI lookup for extra help on obscure clues.
+* **Online Dictionary & AI Lookup:** Search words and phrases via integrated online dictionaries or use built-in AI lookup (powered by a free usage allocation) for extra help on obscure clues.
 
 ## Sample Files
 
@@ -28,9 +28,14 @@ Check the [`/Sample`](./Sample) folder in this repository for example crossword 
 ## Getting Started
 
 ### Prerequisites
-* **OS:** Windows 10 or Windows 11
-* **Runtime:** [.NET Desktop Runtime](https://microsoft.com) *(update with your specific .NET version, e.g., .NET 8.0)*
-* **IDE (for building from source):** Visual Studio 2022 with the **.NET desktop development** workload
+* **OS:** Windows 11 *(Windows 10 is supported using local Tesseract OCR; Windows OCR requires Windows 11)*
+* **Runtime:** [.NET 8.0 Desktop Runtime](https://microsoft.com)
+* **IDE (for building from source):** Visual Studio 2022 (v17.8 or later) with the **.NET desktop development** workload
+
+### OCR & AI Setup
+* **Tesseract OCR:** Runs locally out of the box using the bundled/local Tesseract data files—no internet connection required.
+* **Windows OCR:** Uses the native OCR engine built into Windows 11. Ensure your desired Windows display/OCR language pack is installed in **Windows Settings > Time & language > Language & region**.
+* **AI Lookup:** Works out of the box using a free allocation tier. No paid subscription is required for standard usage *(subject to free-tier rate limits)*.
 
 ### Installation & Running
 
@@ -54,3 +59,4 @@ Contributions, bug reports, and feature suggestions are welcome. Feel free to op
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
